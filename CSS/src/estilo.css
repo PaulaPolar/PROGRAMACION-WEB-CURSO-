@@ -1,0 +1,140 @@
+body {
+	margin: 0px;
+	font-family: cursive;
+}
+/*cabezote*/
+header {
+	background-color: #3BF808;
+	font-family: cursive;
+	padding: 0px;
+	margin: 0px;
+}
+header h1 {
+	margin: 0px ;
+	padding: 10px ;
+	font-size: 200%;
+	text-align: middle;
+	float: left;
+}
+header input {
+	float: right;
+	text-align: center;
+	font-size: 100%;
+	padding: 5px;
+	margin:17px;
+
+}
+
+/*menu horizontal*/
+/* .menu_hor {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: purple;
+}
+.menu_hor li{
+	float: left;
+	border-right: 1px solid fuchsia;
+}
+.menu_hor li a {
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 12px 14px;
+	text-decoration: none;
+}
+.menu_hor li: last-child {
+	border-right: none;
+}*/
+
+h1 {
+	font-family: cursive;
+	border-left: solid black 0px;
+	padding: 0;
+}
+body p {
+	font-family: cursive;
+	color: blue;
+}
+
+aside article img {
+	border: 1px solid black;
+	float: left;
+	width: 100px;
+	height: 100px;
+	margin-right: 10px;
+	
+	/*margin-left:10px;*/
+}
+
+ footer article img {
+ 	border: 1px solid black;
+ 	float: left;
+ 	width: 30px;
+	height: 30px;
+	margin-right: 10px;
+ }
+
+footer section article{
+	background-color: #3BF808;
+	padding: 0px;
+
+
+}
+
+aside article {
+	background-color: #DBE1D9;
+	margin: 10px;
+	padding: 1px;
+}
+	
+
+aside article p{
+	margin: 10px;
+}
+article {
+	clear: both;
+	/*border-bottom: dashed gray 5px;*/
+	}
+
+footer p {
+	background-color: yellow;
+}
+section img {
+	width: 100%;
+}
+
+section article {
+	background-color: #DBE1D9;
+	padding: 10px;
+}
+
+aside section article {
+	background-color: #DBE1D9;
+	padding: 10px;
+
+}
+
+footer {
+	clear: both;
+	background-color: #3BF808;
+	margin: 0px;
+	padding: 5px;
+	border: 1px solid black;
+	font-family: cursive;
+	}
+
+ /*********/
+/*maquetacion productos y banners*/
+/*
+ section {
+	width: 73%;
+	float: left;
+	margin-left: 10px;
+	}
+ aside {
+	width: 0;
+	float: left;
+	margin-top: 4px;
+	}    */ 
